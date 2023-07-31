@@ -39,7 +39,7 @@ console.log(sameFrequency(1223, 3221));
 //obj[char]-=1
 //return true
 
-//another way both are good
+//another way both are goo
 // sameFrequency Solution
 // function sameFrequency(num1, num2){
 //   let strNum1 = num1.toString();
